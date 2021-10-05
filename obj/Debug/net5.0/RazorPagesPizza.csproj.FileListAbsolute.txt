@@ -38,3 +38,4 @@ C:\Users\cmchampaco\chrisLearnDev\RazorPagesPizza\obj\Debug\net5.0\ref\RazorPage
 C:\Users\cmchampaco\chrisLearnDev\RazorPagesPizza\obj\Debug\net5.0\RazorPagesPizza.pdb
 C:\Users\cmchampaco\chrisLearnDev\RazorPagesPizza\obj\Debug\net5.0\RazorPagesPizza.genruntimeconfig.cache
 C:\Users\cmchampaco\chrisLearnDev\RazorPagesPizza\obj\Debug\net5.0\RazorPagesPizza.csproj.CopyComplete
+C:\Users\cmchampaco\chrisLearnDev\RazorPagesPizza\obj\Debug\net5.0\Razor\Pages\Pizza.cshtml.g.cs
